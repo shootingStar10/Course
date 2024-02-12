@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vishrut Mishra
+Divide and Conquer Algorithms
+The divide-and-conquer paradigm is often used to find an optimal solution of a problem. Its basic idea is to decompose a given problem into two or more similar, 
+but simpler, subproblems, to solve them in turn, and to compose their solutions to solve the given problem.
+
